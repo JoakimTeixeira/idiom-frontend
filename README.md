@@ -22,7 +22,7 @@ Features:
 
 * English Title
 * Portuguese Title
-* Action: acess audio
+* Action: Acess audio
 
 ### Main Learning Hall
 
@@ -41,12 +41,12 @@ Features:
     * Increase audio speed
 5. Show/hide keyboard shortcuts
 6. Show/hide bookmark list
-7. Bookmark List 
+7. Bookmark list 
     * Bookmark start
     * Bookmark end
     * Actions: play audio or delete bookmark
 8. Audio subtitles
-    * Show/hide portuguese text
+    * Show/hide Portuguese text
     * Show/hide English text
     * Show/hide all text 
 
