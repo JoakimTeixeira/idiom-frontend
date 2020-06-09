@@ -16,17 +16,19 @@ In this interface, the user have 2 options: login or signup. This system uses to
 
 Here, the user have the list of audios that he's learning.
 
+![image](https://user-images.githubusercontent.com/12193814/84193006-3080df80-aa71-11ea-89ce-d38dd712f164.png)
+
 Features: 
 
 * English Title
 * Portuguese Title
 * Action: acess audio
 
-![image](https://user-images.githubusercontent.com/12193814/84193006-3080df80-aa71-11ea-89ce-d38dd712f164.png)
-
 ### Main Learning Hall
 
 After selection the phrase from the list, the user can interact with it. 
+
+![image](https://user-images.githubusercontent.com/12193814/84192876-ff081400-aa70-11ea-9af4-0beea01a94ec.png)
 
 Features:
 
@@ -47,8 +49,6 @@ Features:
     * Show/hide portuguese text
     * Show/hide English text
     * Show/hide all text 
-
-![image](https://user-images.githubusercontent.com/12193814/84192876-ff081400-aa70-11ea-9af4-0beea01a94ec.png)
 
 ## Server - Back-end
 
